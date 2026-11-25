@@ -6,7 +6,7 @@ Hi . Here i leave you a kernel i made for my phone since i didnt find anything o
 First time doing it so id like to give a big shoutout to KernelSU-Next team and to "VegaData" youtube chanel with this video tutorial in particular (https://www.youtube.com/watch?v=XOu5qXlM-dA). 
 
 
-This is for the new UAPI 6 yet to be released on stable version so you need to download nightly version to funcion properly for now https://nightly.link/KernelSU-Next/KernelSU-Next/workflows/build-manager-ci/dev/manager
+This is for the new UAPI 6 yet to be released on stable version so you need to download nightly version to function properly for now https://nightly.link/KernelSU-Next/KernelSU-Next/workflows/build-manager-ci/dev/manager
 
 ALSO PLEASE take the proper precautions because im just a curious guy trying to have the most recent security patches and android versions on my 6 year old phone, this might have worked for me but i cannot guarantee anything. Always have the backup kernel!
 Now to the persuit to evade bank apps detecting my modifications :D
