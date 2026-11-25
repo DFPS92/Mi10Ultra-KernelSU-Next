@@ -1,5 +1,5 @@
 # Mi10Ultra-KernelSU-Next
-Custom Linux 4.19 kernel for Xiaomi Mi 10 Ultra (cas) compatible with UAPI 6
+Custom Linux 4.19 kernel for Xiaomi Mi 10 Ultra (cas) compatible with UAPI 6 [cas-kernel-ksu.zip](https://github.com/user-attachments/files/35437571/cas-kernel-ksu.zip)
 
 
 Hi . Here i leave you a kernel i made for my phone since i didnt find anything online.
@@ -20,4 +20,4 @@ Now to the persuit to evade bank apps detecting my modifications :D
 
 
 
-[cas-kernel-ksu.zip](https://github.com/user-attachments/files/35437571/cas-kernel-ksu.zip)
+
